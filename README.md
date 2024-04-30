@@ -1,2 +1,2 @@
 # Dataset-Manipulation
-- Check Iris Dataset Analysis.pdf & Wine Dataset Analysis.pdf for full reports of dataset manipulation
+Python: In this practice project, I aimed to find the best classification model for the Iris Dataset & Wine Dataset. I used several ML algorithms such as, KNN, MLP, RF, Decision Trees, and more. I also performed detailed, comprehensive analysis reports on these datasets.
